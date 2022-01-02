@@ -3,8 +3,8 @@
 
 # 地址
 
-主站 <https://obcbo.vercel.app>
+主站 <https://obcbo.vercel.app/>
 
-备用 <https://obcbo.netlify.app>
+备用 <https://obcbo.netlify.app/>
 
-备用 <https://obcbo.github.io>
+备用 <https://obcbo.github.io/>
