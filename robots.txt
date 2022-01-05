@@ -1,0 +1,8 @@
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /gallery/
+Disallow: /img/
+Disallow: /js/
+Disallow: /css/
+
+Sitemap: https://obcbo.vercel.app/sitemap.xml
