@@ -38,33 +38,6 @@
   </url>
   
   <url>
-    <loc>https://obcbo.vercel.app/categories/index.html</loc>
-    
-    <lastmod>2022-01-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://obcbo.vercel.app/clock/index.html</loc>
-    
-    <lastmod>2022-01-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://obcbo.vercel.app/countdown/index.html</loc>
-    
-    <lastmod>2022-01-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://obcbo.vercel.app/post/6a8c71c51db3.html</loc>
     
     <lastmod>2022-01-07</lastmod>
@@ -120,6 +93,33 @@
   
   <url>
     <loc>https://obcbo.vercel.app/about/index.html</loc>
+    
+    <lastmod>2022-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.vercel.app/categories/index.html</loc>
+    
+    <lastmod>2022-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.vercel.app/clock/index.html</loc>
+    
+    <lastmod>2022-01-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.vercel.app/countdown/index.html</loc>
     
     <lastmod>2022-01-07</lastmod>
     
