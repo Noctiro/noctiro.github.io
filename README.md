@@ -1,4 +1,4 @@
-<img src="https://github.com/ObcbO/Hexo/blob/main/themes/butterfly/source/img/favicon.png?raw=true" alt="Hexo logo" width="100" height="100" align="right" />
+<img src="https://raw.githubusercontent.com/ObcbO/obcbo.github.io/main/img/favicon.png" alt="logo" width="100" height="100" align="right" />
 
 # ObcbOの窝
 
