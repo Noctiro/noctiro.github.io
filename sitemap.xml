@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://obcbo.vercel.app/link/index.html</loc>
-    
-    <lastmod>2022-01-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://obcbo.vercel.app/post/6a8c71c51db3.html</loc>
     
     <lastmod>2022-01-30</lastmod>
@@ -111,6 +102,15 @@
   
   <url>
     <loc>https://obcbo.vercel.app/countdown/index.html</loc>
+    
+    <lastmod>2022-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.vercel.app/link/index.html</loc>
     
     <lastmod>2022-01-30</lastmod>
     
