@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ObcbO/obcbo.github.io/main/img/favicon.png" alt="logo" width="100" height="100" align="right" />
+<img src="https://cdn.jsdelivr.net/gh/obcbo/obcbo.github.io/img/favicon.png" alt="logo" width="100" height="100" align="right" />
 
 # ObcbOの窝
 
@@ -10,7 +10,9 @@
 
 ## 博客地址
 
-主站 <https://obcbo.vercel.app/>
+主站 <https://www.obcbo.tk/>
+
+备用 <https://obcbo.vercel.app/>
 
 备用 <https://obcbo.netlify.app/>
 
