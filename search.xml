@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>QQ的XML卡片搜集分享</title>
+      <link href="//post/ec7fc0485dd4.html"/>
+      <url>//post/ec7fc0485dd4.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="群公告"><a href="#群公告" class="headerlink" title="群公告"></a>群公告</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;&quot;app&quot;:&quot;com.tencent.mannounce&quot;,&quot;desc&quot;:&quot;群公告&quot;,&quot;view&quot;:&quot;main&quot;,&quot;ver&quot;:&quot;1.0.0.43&quot;,&quot;prompt&quot;:&quot;[群公告]xdm此群即将解散，快去加新群....诶是假的&quot;,&quot;appID&quot;:&quot;&quot;,&quot;sourceName&quot;:&quot;&quot;,&quot;actionData&quot;:&quot;&quot;,&quot;actionData_A&quot;:&quot;&quot;,&quot;sourceUrl&quot;:&quot;&quot;,&quot;meta&quot;:&#123;&quot;mannounce&quot;:&#123;&quot;cr&quot;:1,&quot;encode&quot;:1,&quot;fid&quot;:&quot;1360643600000000b2170c62911c0700&quot;,&quot;gc&quot;:&quot;912547859&quot;,&quot;sign&quot;:&quot;d62e2c16b3365b65089cb4ce191f7be9&quot;,&quot;text&quot;:&quot;5Yid5aKo5paX572X5Zue5b2S5LqG5YWE5byf5LusCmlw5LiN5Y+YCuWlveWlveS6q+WPlw==&quot;,&quot;title&quot;:&quot;576k5YWs5ZGK&quot;,&quot;tw&quot;:0,&quot;uin&quot;:&quot;577474096&quot;&#125;&#125;,&quot;config&quot;:&#123;&quot;ctime&quot;:1644959666,&quot;forward&quot;:0,&quot;token&quot;:&quot;dbdaf93aab1ab1a966922c7c4cba5733&quot;&#125;,&quot;text&quot;:&quot;&quot;,&quot;sourceAd&quot;:&quot;&quot;,&quot;extra&quot;:&quot;&#123;\&quot;app_type\&quot;:1,\&quot;appid\&quot;:1101236949,\&quot;uin\&quot;:577474096&#125;&quot;&#125;</span><br></pre></td></tr></table></figure><h2 id="群签到"><a href="#群签到" class="headerlink" title="群签到"></a>群签到</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;&quot;app&quot;:&quot;com.tencent.qq.checkin&quot;,&quot;desc&quot;:&quot;群签到&quot;,&quot;view&quot;:&quot;checkIn&quot;,&quot;ver&quot;:&quot;1.0.0.25&quot;,&quot;prompt&quot;:&quot;群签到&quot;,&quot;appID&quot;:&quot;&quot;,&quot;sourceName&quot;:&quot;&quot;,&quot;actionData&quot;:&quot;&quot;,&quot;actionData_A&quot;:&quot;&quot;,&quot;sourceUrl&quot;:&quot;&quot;,&quot;meta&quot;:&#123;&quot;checkInData&quot;:&#123;&quot;address&quot;:&quot;&quot;,&quot;cover&quot;:&#123;&quot;height&quot;:0,&quot;url&quot;:&quot;https:\/\/pub.idqqimg.com\/pc\/misc\/files\/20200127\/96ea43dcb067f59459537d9477c7bcd4.png&quot;,&quot;width&quot;:0&#125;,&quot;desc&quot;:&quot;坚持戴口罩&quot;,&quot;hostuin&quot;:68848516,&quot;id&quot;:&quot;union_16449602450068848516912547859&quot;,&quot;media_type&quot;:0,&quot;qunid&quot;:&quot;912547859&quot;,&quot;rank&quot;:1,&quot;skip_to&quot;:1,&quot;time&quot;:0,&quot;url&quot;:&quot;mqqapi:\/\/microapp\/open?appid=1108164955&amp;path=pages%2Fchecklist%2Fchecklist&amp;extraData=912547859%7Cunion_16449602450068848516912547859&quot;,&quot;vid&quot;:&quot;&quot;&#125;&#125;,&quot;config&quot;:&#123;&quot;ctime&quot;:1644960245,&quot;forward&quot;:0,&quot;showSender&quot;:1,&quot;token&quot;:&quot;1ced0518122acd5ea5cf7eb59086b282&quot;&#125;,&quot;text&quot;:&quot;&quot;,&quot;sourceAd&quot;:&quot;&quot;,&quot;extra&quot;:&quot;&#123;\&quot;app_type\&quot;:1,\&quot;appid\&quot;:101912871,\&quot;uin\&quot;:68848516&#125;&quot;&#125;</span><br></pre></td></tr></table></figure><h2 id="转发消息"><a href="#转发消息" class="headerlink" title="转发消息"></a>转发消息</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;?xml version=&#x27;1.0&#x27; encoding=&#x27;UTF-8&#x27; standalone=&#x27;yes&#x27; ?&gt;&lt;msg serviceID=&quot;35&quot; templateID=&quot;1&quot; action=&quot;viewMultiMsg&quot; brief=&quot;[聊天记录]&quot; m_resid=&quot;zZQk2uIn56zh2kRrOnAFGn1iMYdHRXm1ogP94tIoJMMqXIFycRFcm2jwM1bs7PcG&quot; m_fileName=&quot;7065166412246537516&quot; tSum=&quot;7&quot; sourceMsgId=&quot;0&quot; url=&quot;&quot; flag=&quot;3&quot; adverSign=&quot;0&quot; multiMsgFlag=&quot;0&quot;&gt;&lt;item layout=&quot;1&quot; advertiser_id=&quot;0&quot; aid=&quot;0&quot;&gt;&lt;title size=&quot;34&quot; maxLines=&quot;2&quot; lineSpace=&quot;12&quot;&gt;Tokit的聊天记录&lt;/title&gt;&lt;title size=&quot;26&quot; color=&quot;#777777&quot; maxLines=&quot;2&quot; lineSpace=&quot;12&quot;&gt;Tokit:  芜湖&lt;/title&gt;&lt;title size=&quot;26&quot; color=&quot;#777777&quot; maxLines=&quot;2&quot; lineSpace=&quot;12&quot;&gt;Tokit:  这个是转发消息xml&lt;/title&gt;&lt;title size=&quot;26&quot; color=&quot;#777777&quot; maxLines=&quot;2&quot; lineSpace=&quot;12&quot;&gt;Tokit:  可以拿去整你的朋友~&lt;/title&gt;&lt;title size=&quot;26&quot; color=&quot;#777777&quot; maxLines=&quot;2&quot; lineSpace=&quot;12&quot;&gt;Tokit:  [动画表情]&lt;/title&gt;&lt;hr hidden=&quot;false&quot; style=&quot;0&quot; /&gt;&lt;summary size=&quot;26&quot; color=&quot;#777777&quot;&gt;查看7条转发消息&lt;/summary&gt;&lt;/item&gt;&lt;source name=&quot;聊天记录&quot; icon=&quot;&quot; action=&quot;&quot; appid=&quot;-1&quot; /&gt;&lt;/msg&gt;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> QQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Jsproxy | 科学上网新方式</title>
       <link href="//post/e148ad03aa40.html"/>
       <url>//post/e148ad03aa40.html</url>
