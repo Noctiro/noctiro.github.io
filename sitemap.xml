@@ -4,7 +4,7 @@
   <url>
     <loc>https://obcbo.tk/repositories/index.html</loc>
     
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://obcbo.tk/tags/index.html</loc>
     
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://obcbo.tk/more/osint/arf.json</loc>
     
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,52 +31,7 @@
   <url>
     <loc>https://obcbo.tk/link/index.html</loc>
     
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://obcbo.tk/post/6a8c71c51db3.html</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://obcbo.tk/post/a62f85eb7d8d.html</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://obcbo.tk/post/e148ad03aa40.html</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://obcbo.tk/post/ec7fc0485dd4.html</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://obcbo.tk/post/4f62bd14da3c.html</loc>
-    
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +40,7 @@
   <url>
     <loc>https://obcbo.tk/post/bda06570fc30.html</loc>
     
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +49,7 @@
   <url>
     <loc>https://obcbo.tk/post/6f0601115267.html</loc>
     
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,16 +58,7 @@
   <url>
     <loc>https://obcbo.tk/post/ae532336c8fb.html</loc>
     
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://obcbo.tk/bigdeal/index.html</loc>
-    
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +67,61 @@
   <url>
     <loc>https://obcbo.tk/about/index.html</loc>
     
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.tk/bigdeal/index.html</loc>
+    
+    <lastmod>2022-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.tk/post/6a8c71c51db3.html</loc>
+    
+    <lastmod>2022-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.tk/post/a62f85eb7d8d.html</loc>
+    
+    <lastmod>2022-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.tk/post/e148ad03aa40.html</loc>
+    
+    <lastmod>2022-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.tk/post/ec7fc0485dd4.html</loc>
+    
+    <lastmod>2022-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.tk/post/4f62bd14da3c.html</loc>
+    
+    <lastmod>2022-03-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -130,7 +130,7 @@
 
   <url>
     <loc>https://obcbo.tk/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,63 +138,63 @@
   
   <url>
     <loc>https://obcbo.tk/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://obcbo.tk/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://obcbo.tk/tags/Github/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://obcbo.tk/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://obcbo.tk/tags/QQ/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://obcbo.tk/tags/Android/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://obcbo.tk/tags/Web/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://obcbo.tk/tags/%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://obcbo.tk/tags/Hexo/</loc>
-    <lastmod>2022-02-26</lastmod>
+    <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
