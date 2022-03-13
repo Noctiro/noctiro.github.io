@@ -2,7 +2,6 @@ User-agent: *
 Allow: /
 Allow: /archives/
 Allow: /post/
-Disallow: /gallery/
 Disallow: /img/
 Disallow: /js/
 Disallow: /css/
