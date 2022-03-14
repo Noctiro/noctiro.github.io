@@ -6,4 +6,4 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /css/
 
-Sitemap: https://obcbo.tk/sitemap.xml
+Sitemap: https://www.obcbo.tk/sitemap.xml
