@@ -29,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://www.obcbo.tk/post/110db35fe8a5.html</loc>
+    
+    <lastmod>2022-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.obcbo.tk/post/a62f85eb7d8d.html</loc>
     
     <lastmod>2022-03-14</lastmod>
@@ -160,6 +169,20 @@
   </url>
   
   <url>
+    <loc>https://www.obcbo.tk/tags/%EF%BF%BD%CC%B3%EF%BF%BD/</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.obcbo.tk/tags/Hexo/</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.obcbo.tk/tags/Github/</loc>
     <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -210,13 +233,6 @@
   
   <url>
     <loc>https://www.obcbo.tk/tags/%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2022-03-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.obcbo.tk/tags/Hexo/</loc>
     <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
