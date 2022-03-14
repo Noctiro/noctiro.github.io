@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.obcbo.tk/link/index.html</loc>
+    <loc>https://www.obcbo.tk/tags/index.html</loc>
     
     <lastmod>2022-03-14</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.obcbo.tk/tags/index.html</loc>
+    <loc>https://www.obcbo.tk/link/index.html</loc>
     
     <lastmod>2022-03-14</lastmod>
     
@@ -57,6 +57,15 @@
   
   <url>
     <loc>https://www.obcbo.tk/post/a60f2b09931d.html</loc>
+    
+    <lastmod>2022-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.obcbo.tk/post/b1a99e3babd3.html</loc>
     
     <lastmod>2022-03-14</lastmod>
     
@@ -173,6 +182,20 @@
   
   <url>
     <loc>https://www.obcbo.tk/tags/Pixiv/</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.obcbo.tk/tags/%EF%BF%BD%EF%BF%BD%D1%A7%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.obcbo.tk/tags/%EF%BF%BD%CC%B3%EF%BF%BD/</loc>
     <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
