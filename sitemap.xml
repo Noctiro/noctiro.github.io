@@ -47,6 +47,15 @@
   </url>
   
   <url>
+    <loc>https://obcbo.netlify.app/post/73eecb1e5959.html</loc>
+    
+    <lastmod>2023-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://obcbo.netlify.app/post/e148ad03aa40.html</loc>
     
     <lastmod>2023-01-12</lastmod>
@@ -128,6 +137,15 @@
   </url>
   
   <url>
+    <loc>https://obcbo.netlify.app/post/641f6e0bfed0.html</loc>
+    
+    <lastmod>2023-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://obcbo.netlify.app/about/index.html</loc>
     
     <lastmod>2023-01-12</lastmod>
@@ -177,6 +195,27 @@
   
   <url>
     <loc>https://obcbo.netlify.app/tags/Github/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.netlify.app/tags/%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.netlify.app/tags/Java/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://obcbo.netlify.app/tags/Minecraft/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
