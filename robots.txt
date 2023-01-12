@@ -7,5 +7,5 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /css/
 
-Sitemap: https://www.obcbo.tk/sitemap.xml
-Sitemap: https://www.obcbo.tk/baidusitemap.xml
+Sitemap: https://obcbo.netlify.app/sitemap.xml
+Sitemap: https://obcbo.netlify.app/baidusitemap.xml
