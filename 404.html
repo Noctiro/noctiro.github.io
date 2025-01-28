@@ -1,43 +1,41 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>404 Error | ObcbOの窝</title>
-  <link rel="shortcut icon" href="/img/favicon.png">
-  <style type="text/css">
-    html {
-        font-size: 62.5%;
-    }
-    body {
-        background-color: #fff;
-        color: #000;
-        font-family: helvetica, arial, sans-serif;
-        font-size: 1.4em;
-        line-height: 1.5;
-    }
-    .centered {
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-    }
-    .emoji {
-      font-size: 9em;
-      text-align: center;
-    }
-    .title {
-      font-size: 3em;
-      text-align: center;
-      line-height: 0em;
-      color: grey;
-    }
-    .text {
-      text-align: center;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirect Page</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const currentUrl = window.location.href;
+
+            // 定义跳转规则和默认跳转页面
+            const redirectRules = [
+                { pattern: "/about", target: "https://www.noctiro.moe/about/" },
+                { pattern: "/link", target: "https://www.noctiro.moe/about/" },
+                { pattern: "/archives", target: "https://www.noctiro.moe/archive/" },
+                { pattern: "/tags", target: "https://www.noctiro.moe/archive/" },
+                { pattern: "/post/110db35fe8a5.html", target: "https://www.noctiro.moe/posts/hexo-butterfly-random/" },
+                { pattern: "/post/b1a99e3babd3.html", target: "https://www.noctiro.moe/posts/reverse-proxy/" },
+                { pattern: "/post/73eecb1e5959.html", target: "https://www.noctiro.moe/posts/id-gen-bukkit/" },
+                { pattern: "/post/641f6e0bfed0.html", target: "https://www.noctiro.moe/posts/bukkit-custom-entity/" },
+            ];
+            const defaultRedirect = "";
+
+            // 去除 URL 的末尾斜杠（如果有），确保匹配的一致性
+            const normalizedUrl = currentUrl.endsWith("/") ? currentUrl.slice(0, -1) : currentUrl;
+
+            // 匹配规则
+            const rule = redirectRules.find(r => {
+                const regex = new RegExp(r.pattern + "(/|$)"); // 匹配 "/pattern" 或 "/pattern/"
+                return regex.test(normalizedUrl);
+            });
+
+            // 跳转到匹配页面或默认页面
+            window.location.href = rule ? rule.target : defaultRedirect;
+        });
+    </script>
 </head>
-<body class="centered">
-  <div class="emoji">😭</div>
-  <p class="title">Ooooops!</p>
-  <p class="text">This page doesn't exist anymore.</p>
+<body>
+    <h1>跳转新博客中</h1>
 </body>
 </html>

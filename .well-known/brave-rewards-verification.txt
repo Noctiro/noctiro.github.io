@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: obcbo.tk
-Token: b0659c9694da036a595738dd267aa0a805d1b8e4233ada92f4312d3f6ed2f70a
